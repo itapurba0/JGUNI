@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none">
+  <rect width="1200" height="400" rx="12" fill="#0ea5a4" />
+  <g fill="#ffffff" font-family="Verdana" font-size="48">
+    <text x="60" y="120">JGUNI — Campus & Programmes</text>
+    <text x="60" y="180" font-size="20">Placeholder hero image. Replace with a real asset in /public/images/</text>
+  </g>
+</svg>

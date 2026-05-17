@@ -1,0 +1,85 @@
+[
+  {
+    "school": "School of Management",
+    "programs": [
+      "BBA (Hons) - 4 years, 8 semesters Bachelor of Business Administration",
+      "iMBA - Global Business - 5 years, 10 semesters Integrated BBA + MBA",
+      "iMBA - 5 years, 10 semesters Integrated BBA + MBA",
+      "MBA - 2 years, 4 semesters Master of Business Administration",
+      "iMBA - International Trade & Finance - 5 years, 10 semesters Integrated BBA + MBA",
+      "BBA (Hons) - International Trade & Finance - 4 years, 8 semesters Bachelor of Business Administration",
+      "Masters in International Trade & Finance - 2 years, 4 semesters Master of Business Administration",
+      "PGD - Banking & Finance - 1 year, 2 semesters"
+    ]
+  },
+  {
+    "school": "School of Investigative and Applied Sciences (SIAS)",
+    "programs": [
+      "iM.Sc. - Forensic Science - 5 years, 10 semesters Integrated B.Sc. + M.Sc. Forensic Science",
+      "iM.Sc. - Reproductive Biology & Clinical Embryology - 5 years, 10 semesters Integrated B.Sc. + M.Sc. Reproductive Biology & Clinical Embryology",
+      "iM.Sc. - Cyber Security & Digital Forensics - 5 years, 10 semesters Integrated B.Sc. + M.Sc. Cyber Security & Digital Forensics",
+      "M.Sc. - Clinical Embryology & ART - 2 years, 4 semesters Master of Science - Clinical Embryology & ART",
+      "M.Sc. - Cyber Security & Digital Forensics - 2 years, 4 semesters Master of Science - Cyber Security & Digital Forensics",
+      "M.Sc. - Forensic Science & Technology - 2 years, 4 semesters Master of Science - Forensic Science & Technology"
+    ]
+  },
+  {
+    "school": "School of Engineering",
+    "programs": [
+      "B.Tech - CSE - 4 years, 8 semesters Bachelor of Technology - Computer Science & Engineering",
+      "B.Tech - AI & DS - 4 years, 8 semesters Bachelor of Technology - Data Science",
+      "B.Tech - IT - 4 years, 8 semesters Bachelor of Technology - Information Technology",
+      "B.Tech - CSE - AI - 4 years, 8 semesters Bachelor of Technology - CSE - Artificial Intelligence",
+      "B.Tech - AI & ML - 4 years, 8 semesters Bachelor of Technology - Artificial Intelligence",
+      "B.Tech - CE - 4 years, 8 semesters Bachelor of Technology - Computer Engineering",
+      "B.Tech - CSE - AI & ML - 4 years, 8 semesters Bachelor of Technology - CSE - Artificial Intelligence & Machine Learning",
+      "B.Tech - CSE - BDA - 4 years, 8 semesters Bachelor of Technology - CSE - Big Data Analytics"
+    ]
+  },
+  {
+    "school": "School of Commerce",
+    "programs": [
+      "B.Com (Hons) - 4 years, 8 semesters Bachelor of Commerce",
+      "M.Com (Hons) - 2 years, 4 semesters M.Com (Hons) - International Accounting & Taxation",
+      "B.Com (Hons) with ACCA - 4 Years, 8 Semesters Bachelor of Commerce (Hons) with ACCA",
+      "MCA - 2 years, 4 semesters Master of Computer Applications",
+      "MCA - AI & Full Stack Development - 2 Years, 4 Semesters Master of Computer Applications - AI & Full Stack Development"
+    ]
+  },
+  {
+    "school": "School of Law",
+    "programs": [
+      "LL.M. - 2 years, 4 semesters Master of Legislative Law",
+      "LL.B. - 3 years, 6 semesters Bachelor of Legislative Law"
+    ]
+  },
+  {
+    "school": "School of Design",
+    "programs": [
+      "B.Design - UI/UX - 3 years, 6 semesters Bachelor of Design - UI/UX",
+      "B.Design - Game Design - 3 years, 6 semesters Bachelor of Design - Game Design",
+      "B.Design(Hons) - UI/UX - 4 years, 8 semesters Bachelor of Design - UI/UX",
+      "B.Design(Hons) - Game Design - 4 years, 8 semesters Bachelor of Design - Game Design"
+    ]
+  },
+  {
+    "school": "School of Emerging Technology",
+    "programs": [
+      "Metaverse",
+      "Mobile applications (Flutter & React Native)",
+      "Data Science, AI-ML",
+      "Cyber Security",
+      "Blockchain",
+      "Digital Marketing",
+      "Robotic Process Automation",
+      "Industrial IoT"
+    ]
+  },
+  {
+    "school": "School of Aviation & Hospitality",
+    "programs": [
+      "Integrated BBA + MBA - 5 years, 10 semesters iMBA - Aviation, Hospitality & Travel Management",
+      "Masters in Aviation, Hospitality & Travel Management - 2 years, 4 semesters Masters in Aviation, Hospitality & Travel Management"
+    ]
+  }
+]

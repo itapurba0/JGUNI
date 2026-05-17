@@ -1,0 +1,24 @@
+[
+  {
+    "school": "School of Management",
+    "programs": [
+      "BBA (Hons) - 4 years, 8 semesters Bachelor of Business Administration",
+      "iMBA - Global Business - 5 years, 10 semesters Integrated BBA + MBA",
+      "MBA - 2 years, 4 semesters Master of Business Administration"
+    ]
+  },
+  {
+    "school": "School of Investigative and Applied Sciences (SIAS)",
+    "programs": [
+      "iM.Sc. - Forensic Science - 5 years, 10 semesters Integrated B.Sc. + M.Sc. Forensic Science",
+      "M.Sc. - Clinical Embryology & ART - 2 years, 4 semesters Master of Science - Clinical Embryology & ART"
+    ]
+  },
+  {
+    "school": "School of Engineering",
+    "programs": [
+      "B.Tech - CSE - 4 years, 8 semesters Bachelor of Technology - Computer Science & Engineering",
+      "B.Tech - AI & DS - 4 years, 8 semesters Bachelor of Technology - Data Science"
+    ]
+  }
+]

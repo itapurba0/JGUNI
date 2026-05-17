@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mr. Mahesh Kothurkar",
+    "organization": "Global Footprint Advisory",
+    "role": "Founder",
+    "image": "https://jguni.in/images/mahesh-kothurkar.jpg"
+  },
+  {
+    "name": "Mr. Pankaj Dharkar",
+    "organization": "MEP and Green Building Consultant",
+    "role": "President",
+    "image": "https://jguni.in/images/pankaj-dharkar.jpg"
+  },
+  {
+    "name": "Mr. Bhavin S Bhagat",
+    "organization": "Indiabizforsale",
+    "role": "Founder",
+    "image": "https://jguni.in/images/bhavin-s-bhagat.jpg"
+  },
+  {
+    "name": "Mr. Vivek Ogra",
+    "organization": "Ernst & Young",
+    "role": "Partner",
+    "image": "https://jguni.in/images/vivek-ogra.jpg"
+  },
+  {
+    "name": "Mr. Nilesh Patel",
+    "organization": "Shapoorji Pallonji Gujarat Region",
+    "role": "Regional Business Head",
+    "image": "https://jguni.in/images/nilesh-patel.jpg"
+  }
+]
