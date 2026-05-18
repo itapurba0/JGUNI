@@ -64,7 +64,6 @@ export default function Navbar() {
                         <div className={`pointer-events-auto bg-white rounded-2xl p-4 ${extrude} xl:hidden flex flex-col gap-2`}>
                             <Link href="/" onClick={() => setOpen(false)} className={mobileNavButton}>Home</Link>
                             <Link href="/programmes" onClick={() => setOpen(false)} className={mobileNavButton}>Programmes</Link>
-                            <Link href="/apply" onClick={() => setOpen(false)} className={mobileNavButton}>Apply</Link>
                             <Link href="/campus" onClick={() => setOpen(false)} className={mobileNavButton}>Campus</Link>
                             <Link href="/career" onClick={() => setOpen(false)} className={mobileNavButton}>Career</Link>
                             <Link href="/industry-linkage" onClick={() => setOpen(false)} className={mobileNavButton}>Industry</Link>
