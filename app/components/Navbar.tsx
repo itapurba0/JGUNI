@@ -5,9 +5,9 @@ import Link from 'next/link';
 import { AnimatePresence, motion } from 'framer-motion';
 
 const extrude = "shadow-[9px_9px_16px_rgba(209,217,230,0.8),-9px_-9px_16px_rgba(255,255,255,0.8)]";
-const inset = "shadow-[inset_6px_6px_10px_rgba(209,217,230,0.8),inset_-6px_-6px_10px_rgba(255,255,255,0.8)]";
-const navButton = `rounded-full px-4 py-2 bg-white text-sm font-medium text-slate-700 ${extrude} transition-all duration-200 ease-out hover:${inset} hover:-translate-y-0.5 active:${inset} active:translate-y-0`;
-const mobileNavButton = `rounded-2xl px-3 py-3 bg-white text-sm font-medium text-slate-700 ${extrude} transition-all duration-200 ease-out hover:${inset} hover:-translate-y-0.5 active:${inset} active:translate-y-0`;
+const inset = "shadow-[inset_9px_9px_16px_rgba(209,217,230,0.8),inset_-9px_-9px_16px_rgba(255,255,255,0.8)]";
+const navButton = `rounded-full px-4 py-2 bg-white text-sm font-medium text-slate-700 ${extrude} transition-shadow duration-500 ease-in-out hover:${inset} active:${inset}`;
+const mobileNavButton = `rounded-2xl px-3 py-3 bg-white text-sm font-medium text-slate-700 ${extrude} transition-shadow duration-500 ease-in-out hover:${inset} active:${inset}`;
 
 export default function Navbar() {
     const [open, setOpen] = useState(false);
@@ -84,8 +84,8 @@ export default function Navbar() {
 
 function ApplyPill({ onNavigate }: { onNavigate?: () => void }) {
     const extrudeLocal = "shadow-[9px_9px_16px_rgba(209,217,230,0.8),-9px_-9px_16px_rgba(255,255,255,0.8)]";
-    const insetLocal = "shadow-[inset_6px_6px_10px_rgba(209,217,230,0.8),inset_-6px_-6px_10px_rgba(255,255,255,0.8)]";
+    const insetLocal = "shadow-[inset_9px_9px_16px_rgba(209,217,230,0.8),inset_-9px_-9px_16px_rgba(255,255,255,0.8)]";
     return (
-        <Link href="/apply" onClick={onNavigate} className={`rounded-full px-4 py-2 text-red-700 bg-white ${extrudeLocal} hover:${insetLocal} active:${insetLocal} transition-shadow duration-150`}>Apply Now</Link>
+        <Link href="/apply" onClick={onNavigate} className={`rounded-full px-4 py-2 text-red-700 bg-white ${extrudeLocal} hover:${insetLocal} active:${insetLocal} transition-shadow duration-500`}>Apply Now</Link>
     );
 }
